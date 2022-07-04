@@ -1,4 +1,29 @@
 body{
-    font-family: 'Roboto Slab', serif;
-    height: 50px;
+    font-family: 'Roboto Slab', serif; 
 }
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+
+}
+section{
+    display: flex;
+}
+.half-width{
+width: 50%;
+}
+img{
+    width: 60%;
+    padding:30px 10px 100px 200px
+}
+.link-button{
+    text-decoration:none ;
+    background-image: linear-gradient(orange, red );
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+
